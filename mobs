@@ -1,0 +1,8 @@
+name glyph glyphcolor  maxhp ap strength dex ai description
+Wolf w WHITE 10 150 10 10 WolfAI 
+A great wolf.
+|
+Raider r RED 10 10 10 10 WolfAI
+A figure in ragged clothes.
+An axe is belted at its waist, a rifle on its back.
+|
